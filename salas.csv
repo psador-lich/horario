@@ -1,0 +1,7 @@
+sala_nome,capacidade,tipo_sala
+Sala Comum 1,35,comum
+Sala Comum 2,35,comum
+Sala Comum 3,35,comum
+Lab Info 1,20,lab_informatica
+Lab Eletro/Robo 1,20,lab_eletrica_robotica
+Lab Quim 1,25,lab_quimica

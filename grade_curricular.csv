@@ -1,0 +1,11 @@
+curso_nome,turma_nome,turma_turno,turma_alunos,disciplina_nome,disciplina_duracao,professor_nome,sala_requerida
+Informática,Info-Manhã-A,Manhã,30,Banco de Dados,2,Prof. Silva,lab_informatica
+Informática,Info-Manhã-A,Manhã,30,Redes de Computadores,3,Prof. Souza,lab_informatica
+Informática,Info-Manhã-A,Manhã,30,Cálculo I,2,Prof. Costa,comum
+Informática,Info-Manhã-A,Manhã,30,Engenharia de Software,2,Prof. Silva,comum
+Eletrotécnica,Eletro-Noite-A,Noite,25,Circuitos Elétricos,4,Prof. Santos,lab_eletrica_robotica
+Eletrotécnica,Eletro-Noite-A,Noite,25,Automação Industrial,4,Prof. Lima,lab_eletrica_robotica
+Eletrotécnica,Eletro-Noite-A,Noite,25,Eletrônica de Potência,4,Prof. Santos,lab_eletrica_robotica
+Administração,Adm-Tarde-A,Tarde,35,Gestão de Projetos,2,Prof. Alves,comum
+Administração,Adm-Tarde-A,Tarde,35,Marketing Digital,2,Prof. Alves,comum
+Administração,Adm-Tarde-A,Tarde,35,Contabilidade,3,Prof. Mendes,comum

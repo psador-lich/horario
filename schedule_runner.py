@@ -1,8 +1,3 @@
-# 1. Instalar a biblioteca ortools
-# This command installs the ortools library if it's not already present.
-# ortools is Google's software suite for combinatorial optimization.
-!pip install ortools
-
 # 2. Criar as classes Python
 
 class Professor:
@@ -587,7 +582,7 @@ if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
         ax.set_title(f"Horário: {turma.nome} (Turno: {turma.turno})", fontsize=14, pad=20)
         fig.tight_layout()
 
-    plt.show()
+    # plt.show()
 
 else:
     print('No solution found.')
